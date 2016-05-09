@@ -1,0 +1,11 @@
+Cooler interno:      Tension: 14,47V        Corriente: 200mAx2	Potencia: 5,8 W
+HTC:                Tension: 14,47V         Corriente:  60mA	Potencia: 0,9 W
+Celda Peltier       Tension: 14,47V         Corriente:  4,7A	Potencia: 69 W
+Motores de continua    Tension: 12V           Corriente: 0,6A*2      Potencia:14,4 W
+
+Potencia en 12V= 14,4 W
+Potencia en 14,5V= 75,7 W
+
+Consumo de potencia total: 90,1 W
+
+Potencia en 12V recomendada 18W
